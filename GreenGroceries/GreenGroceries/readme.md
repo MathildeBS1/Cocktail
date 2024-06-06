@@ -1,4 +1,4 @@
-# Green Groceries
+# Cocktail
 
 ## Initialization ✔
 
@@ -15,9 +15,22 @@ access for the TAs):
     DB_PASSWORD=<postgres_user_password>
     DB_NAME=GreenGroceries || <postgres_db_name>
 
+Comment line 4 in choices.py out
+Run choices.py
+uncomment line 4
+
+Run Users.sql and produce.sql in the given sequence
+
+Run _init_.py
+
 When all this information is present (and correct) the server can be started with:
 
     flask run
+
+
+## Requirements for the project
+SQL files users.sql and produce.sql include insert/update/delete/select statements
+Regular expression matching in signup.html line 32. New users need to use at least 8 characters and a capital letter for their password in order to sign up.
 
 ## Folder setup 📁
 

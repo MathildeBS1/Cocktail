@@ -1,13 +1,13 @@
 ,idDrink,item,category,variety,unit,date,price,initial
-0,17222,Pinacolada,Cocktail,Alcoholic,Cocktail glass,Rum,18,A
+0,17222,Pinacolada,Cocktail,Alcoholic,Cocktail glass,Rum,10,A
 1,13501,Pinacolada,Cocktail,Alcoholic,Cocktail glas,Rumo,9,A
-2,17225,Pinacolada,Cocktail,Alcoholic,Cocktail glas,Rum,1,A
+2,17225,Pinacolada,Cocktail,Non alcoholic,Cocktail glas,Pineapple,5,A
 3,14610,Gin,Shot,Alcoholic,Shot glass,Gin,10,A
 4,17837,Gin,Shot,Alcoholic,Shot glass,Gin,10,A
-5,13938,Orangejuice,Ordinary Drink,Non alcoholic,Highball Glass,Orange juice,12,A
-6,17833,Orangejuice. J.,Ordinary Drink,Non alcoholic,Highball Glass,Orange juice,15,A
-7,15266,Orangejuice,Ordinary Drink,Non alcoholic,Highball glass,Orange juice,4,A
-8,15106,Orangejuice,Other / Unknown,Non alcoholic,Highball Glass,Orange juice,5,A
-9,17839,Orangejuice,Ordinary Drink,Non alcoholic,Highball glass,Orange juice,7,A
-10,17835,Orangejuice,Ordinary Drink,Non alcoholic,Highball glass,Orange juice,8,A
+5,13938,Orangejuice,Ordinary Drink,Alcoholic,Highball Glass,Orange juice,15,A
+6,17833,Orangejuice,Ordinary Drink,Non alcoholic,Highball Glass,Orange juice,10,A
+7,15266,Orangejuice,Ordinary Drink,Non alcoholic,Highball glass,Orange juice,9,A
+8,15106,Orangejuice,Other / Unknown,Non alcoholic,Highball Glass,Orange juice,8,A
+9,17839,Orangejuice,Ordinary Drink,Non alcoholic,Highball glass,Orange juice,11,A
+10,17835,Orangejuice,Ordinary Drink,Non alcoholic,Highball glass,Orange juice,10,A
 

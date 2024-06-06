@@ -32,7 +32,7 @@ ProduceItemChoices = ModelChoices(df.item.unique())
 ProduceVarietyChoices = ModelChoices(df.variety.unique())
 ProduceUnitChoices = ModelChoices(df.unit.unique())
 
-UserTypeChoices = ModelChoices(['Farmer', 'Customer'])
+UserTypeChoices = ModelChoices(['Bartender', 'Customer'])
 
 if __name__ == '__main__':
     print(df.item.unique())
